@@ -1,0 +1,22 @@
+# -*- coding: utf-8 -*-
+"""
+Spyder Editor
+
+This is a temporary script file.
+"""
+
+
+
+#%%
+
+#! cmd /c set
+#! cmd /c dir
+! conda info
+#! conda activate en38
+
+#%%
+
+conda info
+1+2
+
+# %%
