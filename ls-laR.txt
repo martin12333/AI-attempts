@@ -1,0 +1,92 @@
+.:
+total 1744
+drwxr-xr-x 1 marti 197619       0 Mar 23 17:30 ./
+drwxr-xr-x 1 marti 197619       0 Mar 20 17:38 ../
+-rw-r--r-- 1 marti 197619      27 Mar 10 15:49 .git
+-rw-r--r-- 1 marti 197619    1799 Mar 10 15:51 .gitignore
+drwxr-xr-x 1 marti 197619       0 Mar 23 17:23 .ipynb_checkpoints/
+-rw-r--r-- 1 marti 197619   13868 Feb 28 21:34 AutoTokenizer-1.ipynb
+-rw-r--r-- 1 marti 197619   18176 Mar  5  2019 BERT_blog.ipynb
+-rw-r--r-- 1 marti 197619    1068 Mar 10 15:51 LICENSE
+drwxr-xr-x 1 marti 197619       0 Mar 10 13:27 OLD/
+-rw-r--r-- 1 marti 197619      13 Mar 10 15:51 README.md
+drwxr-xr-x 1 marti 197619       0 Feb 27 15:45 bart/
+drwxr-xr-x 1 marti 197619       0 Feb 27 15:45 bert/
+-rw-r--r-- 1 marti 197619    5642 Feb  2 17:32 gpt-2-1-antid.txt
+-rw-r--r-- 1 marti 197619    3825 Feb 28 17:16 gpt-2-large-2.txt
+-rw-r--r-- 1 marti 197619    2162 Feb 28 15:46 gpt-2-med-2.txt
+-rw-r--r-- 1 marti 197619 1042301 Feb 24 17:01 gpt2-vocab.json
+-rw-r--r-- 1 marti 197619   25729 Feb 23 12:32 hf-2.ipynb
+-rw-r--r-- 1 marti 197619   38099 Mar 23 17:23 hf-3 - Copy.ipynb
+-rw-r--r-- 1 marti 197619  143666 Feb 24 16:44 hf-4tf.ipynb
+-rw-r--r-- 1 marti 197619  105109 Feb 24 17:03 hf-4torch.ipynb
+-rw-r--r-- 1 marti 197619   22018 Feb 28 17:43 hf-bert-2.ipynb
+-rw-r--r-- 1 marti 197619   11857 Feb 28 15:34 hf-gpt2-1 - Copy.ipynb
+-rw-r--r-- 1 marti 197619   13365 Feb 28 16:12 hf-gpt2-2 - Copy.ipynb
+-rw-r--r-- 1 marti 197619   25301 Feb  5 17:46 hf38-1.ipynb
+-rw-r--r-- 1 marti 197619       0 Mar 23 17:30 ls-laR.txt
+-rw-r--r-- 1 marti 197619     723 Feb 23 14:15 myenv.ps1
+drwxr-xr-x 1 marti 197619       0 Feb 26 18:47 nl2bash/
+-rw-r--r-- 1 marti 197619      84 Feb 22 16:39 pokus.ps1
+-rw-r--r-- 1 marti 197619    9866 Mar  4 19:48 sbert.net--quickstart.ipynb
+-rw-r--r-- 1 marti 197619   26602 Feb 23 14:02 scipy-describe.ipynb
+-rw-r--r-- 1 marti 197619     201 Feb 13 16:10 temp.ipy
+-rw-r--r-- 1 marti 197619   25802 Feb 23 12:52 tf-describe.ipynb
+-rw-r--r-- 1 marti 197619  104511 Mar  5 20:15 w2v-EDIT-MNovy-1.ipynb
+-rw-r--r-- 1 marti 197619   50120 Mar  5 15:42 w2v.ipynb
+
+./.ipynb_checkpoints:
+total 540
+drwxr-xr-x 1 marti 197619      0 Mar 23 17:23 ./
+drwxr-xr-x 1 marti 197619      0 Mar 23 17:30 ../
+-rw-r--r-- 1 marti 197619  13868 Feb 28 21:34 AutoTokenizer-1-checkpoint.ipynb
+-rw-r--r-- 1 marti 197619  25589 Feb 22 19:05 hf-2-checkpoint.ipynb
+-rw-r--r-- 1 marti 197619  38099 Mar 23 17:23 hf-3 - Copy-checkpoint.ipynb
+-rw-r--r-- 1 marti 197619 119916 Feb 23 19:06 hf-4tf-checkpoint.ipynb
+-rw-r--r-- 1 marti 197619 105124 Feb 24 17:02 hf-4torch-checkpoint.ipynb
+-rw-r--r-- 1 marti 197619  19341 Feb 28 17:33 hf-bert-2-checkpoint.ipynb
+-rw-r--r-- 1 marti 197619  25301 Feb  5 17:46 hf38-1-checkpoint.ipynb
+-rw-r--r-- 1 marti 197619   9866 Mar  4 19:48 sbert.net--quickstart-checkpoint.ipynb
+-rw-r--r-- 1 marti 197619  25802 Feb 23 12:51 scipy-describe-checkpoint.ipynb
+-rw-r--r-- 1 marti 197619  25802 Feb 23 12:52 tf-describe-checkpoint.ipynb
+-rw-r--r-- 1 marti 197619 104511 Mar  5 20:15 w2v-EDIT-MNovy-1-checkpoint.ipynb
+
+./OLD:
+total 8
+drwxr-xr-x 1 marti 197619 0 Mar 10 13:27 ./
+drwxr-xr-x 1 marti 197619 0 Mar 23 17:30 ../
+
+./bart:
+total 1740
+drwxr-xr-x 1 marti 197619      0 Feb 27 15:45 ./
+drwxr-xr-x 1 marti 197619      0 Mar 23 17:30 ../
+-rw-r--r-- 1 marti 197619 865678 Feb 27 15:36 6.txt
+-rw-r--r-- 1 marti 197619 898823 Feb 27 15:26 vocab.json
+
+./bert:
+total 468
+drwxr-xr-x 1 marti 197619      0 Feb 27 15:45 ./
+drwxr-xr-x 1 marti 197619      0 Mar 23 17:30 ../
+-rw-r--r-- 1 marti 197619 231508 Feb 27 15:39 6.txt
+-rw-r--r-- 1 marti 197619 231508 Feb 27 15:28 vocab.txt
+
+./nl2bash:
+total 3548
+drwxr-xr-x 1 marti 197619       0 Feb 26 18:47 ./
+drwxr-xr-x 1 marti 197619       0 Mar 23 17:30 ../
+-rw-r--r-- 1 marti 197619    1075 Dec 24 01:53 LICENSE
+-rw-r--r-- 1 marti 197619  575091 Dec 24 01:53 all.cm
+-rw-r--r-- 1 marti 197619 1032340 Dec 24 01:53 all.nl
+-rw-r--r-- 1 marti 197619 1948958 Feb 26 18:45 nl2bash-data.json
+-rw-r--r-- 1 marti 197619   18329 Dec 24 01:53 random_tokens.txt
+drwxr-xr-x 1 marti 197619       0 Feb 26 17:51 vocab/
+-rw-r--r-- 1 marti 197619   26168 Dec 24 01:53 vocab.tar.xz
+
+./nl2bash/vocab:
+total 108
+drwxr-xr-x 1 marti 197619     0 Feb 26 17:51 ./
+drwxr-xr-x 1 marti 197619     0 Feb 26 18:47 ../
+-rw-r--r-- 1 marti 197619 12486 Nov  2  2017 cm.vocab.normalized.token
+-rw-r--r-- 1 marti 197619 33294 Nov  2  2017 cm.vocab.partial.token
+-rw-r--r-- 1 marti 197619 13473 Nov  2  2017 nl.vocab.normalized.token
+-rw-r--r-- 1 marti 197619 32737 Nov  2  2017 nl.vocab.partial.token
